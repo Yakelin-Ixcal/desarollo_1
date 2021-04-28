@@ -1,34 +1,26 @@
-.Xiaomi {
-    background-color: rgba(0, 0, 0, 0.041);
-      text-align: center;
-      width: 200px;
-      margin: 20px;
-      margin-top: 20px;
-      margin-left: 25%;
-      box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.384);
-      border-radius: 25px;
-      font-weight: normal;
-  }
-  
-  
+
   .col-12 {
       background-color: rgba(245, 208, 153, 0.753);
-      margin-left: 10px;
   }
   
-  .col-12 img{
-      margin-left: 50px;
+
+  .col-12col-md-12{
+      text-align: center;
   }
   
   img{
      margin-top: 20px;
   }
   
-  .col-12 button{
+  button{
       border: 5px;
-      width: 110px;
+      width: 120px;
       margin-bottom: 40px;
   }
+
+  .col-6{ 
+    text-align: center;
+}
   
   p{
       color: rgba(15, 15, 15, 0.623);
@@ -38,30 +30,42 @@
       margin: 10px;
   }
   
-  .Iphone {
+  .caja1{
       background-color: rgba(0, 0, 0, 0.041);
         text-align: center;
-        width: 200px;
-        margin: 20px;
+        width: 260px;
+        margin: 10px;
         margin-top: 20px;
-        margin-left: 25%;
+        margin-left: 150px;
         box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.384);
         border-radius: 25px;
         font-weight: normal;
    }
+
+   .caja2{
+    background-color: rgba(0, 0, 0, 0.041);
+      text-align: center;
+      width: 260px;
+      margin: 20px;
+      margin-top: 20px;
+      margin-left: 150px;
+      box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.384);
+      border-radius: 25px;
+      font-weight: normal;
+ }
+ .caja3{
+    background-color: rgba(0, 0, 0, 0.041);
+      text-align: center;
+      width: 260px;
+      margin: 10px;
+      margin-top: 20px;
+      margin-left: 150px;
+      box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.384);
+      border-radius: 25px;
+      font-weight: normal;
+ }
+
   
-   .Samsung{
-      background-color: rgba(0, 0, 0, 0.041);
-        text-align: center;
-        width: 200px;
-        margin: 20px;
-        margin-top: 20px;
-        margin-left: 25%;
-        box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.384);
-        border-radius: 25px;
-        font-weight: normal;
-    }
-    
   h3{
       font-size: 20px;
   }
